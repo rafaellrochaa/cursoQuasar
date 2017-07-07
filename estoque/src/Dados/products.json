@@ -1,0 +1,64 @@
+{
+  "Produtos": [
+    {
+      "Categoria": "Smartfones",
+      "Ano": 2017,
+      "Marca": "Samsung",
+      "Modelo": "Galaxy S7"
+    },
+    {
+      "Categoria": "Smartfones",
+      "Ano": 2014,
+      "Marca": "Lg",
+      "Modelo": "LG G3"
+    },
+    {
+      "Categoria": "Smartfones",
+      "Ano": 2015,
+      "Marca": "Lg",
+      "Modelo": "LG G4"
+    },
+    {
+      "Categoria": "Smartfones",
+      "Ano": 2016,
+      "Marca": "Lg",
+      "Modelo": "LG G5"
+    },
+    {
+      "Categoria": "Smartfones",
+      "Ano": 2015,
+      "Marca": "Asus",
+      "Modelo": "Zen Fone 2"
+    },
+    {
+      "Categoria": "Smartfones",
+      "Ano": 2015,
+      "Marca": "Asus",
+      "Modelo": "Zen Fone 3"
+    },
+    {
+      "Categoria": "Smartfones",
+      "Ano": 2016,
+      "Marca": "Apple",
+      "Modelo": "Iphone 7"
+    },
+    {
+      "Categoria": "Tablets",
+      "Ano": 2016,
+      "Marca": "Samsung",
+      "Modelo": "Galaxy tab S"
+    },
+    {
+      "Categoria": "Tablets",
+      "Ano": 2016,
+      "Marca": "Lenovo",
+      "Modelo": "Lenoxx lite s"
+    },
+    {
+      "Categoria": "Tablets",
+      "Ano": 2016,
+      "Marca": "Apple",
+      "Modelo": "Ipad mini"
+    }
+  ]
+}
